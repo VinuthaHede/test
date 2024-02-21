@@ -1,0 +1,3 @@
+provide a username and password and those details will then be remembered later. 
+The credentials are stored in a file on the disk, with the disk permissions 
+of "just user readable/writable" but still in plaintext.
